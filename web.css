@@ -102,6 +102,7 @@ background-size: cover;
     background-image: url(photo/footer-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
+    display: inline-block;
 }
 
 .work h2{
@@ -112,7 +113,7 @@ background-size: cover;
 
 .work img{
   height: 500px;
-  margin-left: 30px;
+  margin-left: 20px;
   margin-top: 90px;
 }
 
